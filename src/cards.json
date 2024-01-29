@@ -1,0 +1,1277 @@
+[
+  {
+      "name": "Deathmatch Arena",
+      "pitch": null,
+      "image": "HVY000"
+  },
+  {
+      "name": "Kayo, Armed and Dangerous",
+      "pitch": null,
+      "image": "HVY001"
+  },
+  {
+      "name": "Kayo",
+      "pitch": null,
+      "image": "HVY002"
+  },
+  {
+      "name": "Rhinar, Reckless Rampage",
+      "pitch": null,
+      "image": "HVY003"
+  },
+  {
+      "name": "Rhinar",
+      "pitch": null,
+      "image": "HVY004"
+  },
+  {
+      "name": "Mandible Claw",
+      "pitch": null,
+      "image": "HVY005"
+  },
+  {
+      "name": "Ball Breaker",
+      "pitch": null,
+      "image": "HVY006"
+  },
+  {
+      "name": "Mini Meataxe",
+      "pitch": null,
+      "image": "HVY007"
+  },
+  {
+      "name": "Apex Bonebreaker",
+      "pitch": null,
+      "image": "HVY008"
+  },
+  {
+      "name": "Knucklehead",
+      "pitch": null,
+      "image": "HVY009"
+  },
+  {
+      "name": "Monstrous Veil",
+      "pitch": null,
+      "image": "HVY010"
+  },
+  {
+      "name": "Raw Meat",
+      "pitch": null,
+      "image": "HVY011"
+  },
+  {
+      "name": "Send Packing",
+      "pitch": 2,
+      "image": "HVY012"
+  },
+  {
+      "name": "Show No Mercy",
+      "pitch": 1,
+      "image": "HVY013"
+  },
+  {
+      "name": "Cast Bones",
+      "pitch": 1,
+      "image": "HVY014"
+  },
+  {
+      "name": "Reckless Charge",
+      "pitch": 3,
+      "image": "HVY015"
+  },
+  {
+      "name": "No Fear",
+      "pitch": 1,
+      "image": "HVY016"
+  },
+  {
+      "name": "Beast Mode",
+      "pitch": 1,
+      "image": "HVY017"
+  },
+  {
+      "name": "Beast Mode",
+      "pitch": 2,
+      "image": "HVY018"
+  },
+  {
+      "name": "Beast Mode",
+      "pitch": 3,
+      "image": "HVY019"
+  },
+  {
+      "name": "Pack Call",
+      "pitch": 1,
+      "image": "HVY020"
+  },
+  {
+      "name": "Pack Call",
+      "pitch": 2,
+      "image": "HVY021"
+  },
+  {
+      "name": "Pack Call",
+      "pitch": 3,
+      "image": "HVY022"
+  },
+  {
+      "name": "Rawhide Rumble",
+      "pitch": 1,
+      "image": "HVY023"
+  },
+  {
+      "name": "Rawhide Rumble",
+      "pitch": 2,
+      "image": "HVY024"
+  },
+  {
+      "name": "Rawhide Rumble",
+      "pitch": 3,
+      "image": "HVY025"
+  },
+  {
+      "name": "Assault and Battery",
+      "pitch": 1,
+      "image": "HVY026"
+  },
+  {
+      "name": "Assault and Battery",
+      "pitch": 2,
+      "image": "HVY027"
+  },
+  {
+      "name": "Assault and Battery",
+      "pitch": 3,
+      "image": "HVY028"
+  },
+  {
+      "name": "Bare Fangs",
+      "pitch": 1,
+      "image": "HVY029"
+  },
+  {
+      "name": "Bare Fangs",
+      "pitch": 2,
+      "image": "HVY030"
+  },
+  {
+      "name": "Bare Fangs",
+      "pitch": 3,
+      "image": "HVY031"
+  },
+  {
+      "name": "Pack Hunt",
+      "pitch": 1,
+      "image": "HVY032"
+  },
+  {
+      "name": "Pack Hunt",
+      "pitch": 2,
+      "image": "HVY033"
+  },
+  {
+      "name": "Pack Hunt",
+      "pitch": 3,
+      "image": "HVY034"
+  },
+  {
+      "name": "Pound Town",
+      "pitch": 1,
+      "image": "HVY035"
+  },
+  {
+      "name": "Pound Town",
+      "pitch": 2,
+      "image": "HVY036"
+  },
+  {
+      "name": "Pound Town",
+      "pitch": 3,
+      "image": "HVY037"
+  },
+  {
+      "name": "Wild Ride",
+      "pitch": 1,
+      "image": "HVY038"
+  },
+  {
+      "name": "Wild Ride",
+      "pitch": 2,
+      "image": "HVY039"
+  },
+  {
+      "name": "Wild Ride",
+      "pitch": 3,
+      "image": "HVY040"
+  },
+  {
+      "name": "Bonebreaker Bellow",
+      "pitch": 1,
+      "image": "HVY041"
+  },
+  {
+      "name": "Bonebreaker Bellow",
+      "pitch": 2,
+      "image": "HVY042"
+  },
+  {
+      "name": "Bonebreaker Bellow",
+      "pitch": 3,
+      "image": "HVY043"
+  },
+  {
+      "name": "Smashback Alehorn",
+      "pitch": 3,
+      "image": "HVY044"
+  },
+  {
+      "name": "Betsy, Skin in the Game",
+      "pitch": null,
+      "image": "HVY045"
+  },
+  {
+      "name": "Betsy",
+      "pitch": null,
+      "image": "HVY046"
+  },
+  {
+      "name": "Victor Goldmane, High and Mighty",
+      "pitch": null,
+      "image": "HVY047"
+  },
+  {
+      "name": "Victor Goldmane",
+      "pitch": null,
+      "image": "HVY048"
+  },
+  {
+      "name": "High Riser",
+      "pitch": null,
+      "image": "HVY049"
+  },
+  {
+      "name": "Miller's Grindstone",
+      "pitch": null,
+      "image": "HVY050"
+  },
+  {
+      "name": "Aurum Aegis",
+      "pitch": null,
+      "image": "HVY051"
+  },
+  {
+      "name": "Stonewall Impasse",
+      "pitch": null,
+      "image": "HVY052"
+  },
+  {
+      "name": "Gauntlets of Iron Will",
+      "pitch": null,
+      "image": "HVY053"
+  },
+  {
+      "name": "Golden Glare",
+      "pitch": null,
+      "image": "HVY054"
+  },
+  {
+      "name": "Good Time Chapeau",
+      "pitch": null,
+      "image": "HVY055"
+  },
+  {
+      "name": "Stand Ground",
+      "pitch": null,
+      "image": "HVY056"
+  },
+  {
+      "name": "Bet Big",
+      "pitch": 1,
+      "image": "HVY057"
+  },
+  {
+      "name": "Primed to Fight",
+      "pitch": 1,
+      "image": "HVY058"
+  },
+  {
+      "name": "The Golden Son",
+      "pitch": 2,
+      "image": "HVY059"
+  },
+  {
+      "name": "Boast",
+      "pitch": 3,
+      "image": "HVY060"
+  },
+  {
+      "name": "Trounce",
+      "pitch": 1,
+      "image": "HVY061"
+  },
+  {
+      "name": "Colossal Bearing",
+      "pitch": 1,
+      "image": "HVY062"
+  },
+  {
+      "name": "Lay Down the Law",
+      "pitch": 1,
+      "image": "HVY063"
+  },
+  {
+      "name": "Smack of Reality",
+      "pitch": 1,
+      "image": "HVY064"
+  },
+  {
+      "name": "Over the Top",
+      "pitch": 1,
+      "image": "HVY065"
+  },
+  {
+      "name": "Over the Top",
+      "pitch": 2,
+      "image": "HVY066"
+  },
+  {
+      "name": "Over the Top",
+      "pitch": 3,
+      "image": "HVY067"
+  },
+  {
+      "name": "Stacked in Your Favor",
+      "pitch": 1,
+      "image": "HVY068"
+  },
+  {
+      "name": "Stacked in Your Favor",
+      "pitch": 2,
+      "image": "HVY069"
+  },
+  {
+      "name": "Stacked in Your Favor",
+      "pitch": 3,
+      "image": "HVY070"
+  },
+  {
+      "name": "Command Respect",
+      "pitch": 1,
+      "image": "HVY071"
+  },
+  {
+      "name": "Command Respect",
+      "pitch": 2,
+      "image": "HVY072"
+  },
+  {
+      "name": "Command Respect",
+      "pitch": 3,
+      "image": "HVY073"
+  },
+  {
+      "name": "Concuss",
+      "pitch": 1,
+      "image": "HVY074"
+  },
+  {
+      "name": "Concuss",
+      "pitch": 2,
+      "image": "HVY075"
+  },
+  {
+      "name": "Concuss",
+      "pitch": 3,
+      "image": "HVY076"
+  },
+  {
+      "name": "Thunk",
+      "pitch": 1,
+      "image": "HVY077"
+  },
+  {
+      "name": "Thunk",
+      "pitch": 2,
+      "image": "HVY078"
+  },
+  {
+      "name": "Thunk",
+      "pitch": 3,
+      "image": "HVY079"
+  },
+  {
+      "name": "Wallop",
+      "pitch": 1,
+      "image": "HVY080"
+  },
+  {
+      "name": "Wallop",
+      "pitch": 2,
+      "image": "HVY081"
+  },
+  {
+      "name": "Wallop",
+      "pitch": 3,
+      "image": "HVY082"
+  },
+  {
+      "name": "Big Bop",
+      "pitch": 1,
+      "image": "HVY083"
+  },
+  {
+      "name": "Big Bop",
+      "pitch": 2,
+      "image": "HVY084"
+  },
+  {
+      "name": "Big Bop",
+      "pitch": 3,
+      "image": "HVY085"
+  },
+  {
+      "name": "Bigger Than Big",
+      "pitch": 1,
+      "image": "HVY086"
+  },
+  {
+      "name": "Bigger Than Big",
+      "pitch": 2,
+      "image": "HVY087"
+  },
+  {
+      "name": "Bigger Than Big",
+      "pitch": 3,
+      "image": "HVY088"
+  },
+  {
+      "name": "Pint of Strong and Stout",
+      "pitch": 3,
+      "image": "HVY089"
+  },
+  {
+      "name": "Kassai of the Golden Sand",
+      "pitch": null,
+      "image": "HVY090"
+  },
+  {
+      "name": "Kassai",
+      "pitch": null,
+      "image": "HVY091"
+  },
+  {
+      "name": "Olympia, Prized Fighter",
+      "pitch": null,
+      "image": "HVY092"
+  },
+  {
+      "name": "Olympia",
+      "pitch": null,
+      "image": "HVY093"
+  },
+  {
+      "name": "Cintari Saber",
+      "pitch": null,
+      "image": "HVY094"
+  },
+  {
+      "name": "Hot Streak",
+      "pitch": null,
+      "image": "HVY095"
+  },
+  {
+      "name": "Parry Blade",
+      "pitch": null,
+      "image": "HVY096"
+  },
+  {
+      "name": "Grains of Bloodspill",
+      "pitch": null,
+      "image": "HVY097"
+  },
+  {
+      "name": "Prized Galea",
+      "pitch": null,
+      "image": "HVY098"
+  },
+  {
+      "name": "Hood of Red Sand",
+      "pitch": null,
+      "image": "HVY099"
+  },
+  {
+      "name": "Beckon Applause",
+      "pitch": null,
+      "image": "HVY100"
+  },
+  {
+      "name": "Blade Flurry",
+      "pitch": 1,
+      "image": "HVY101"
+  },
+  {
+      "name": "Shift the Tide of Battle",
+      "pitch": 2,
+      "image": "HVY102"
+  },
+  {
+      "name": "Up the Ante",
+      "pitch": 3,
+      "image": "HVY103"
+  },
+  {
+      "name": "Commanding Performance",
+      "pitch": 1,
+      "image": "HVY104"
+  },
+  {
+      "name": "Raise an Army",
+      "pitch": 2,
+      "image": "HVY105"
+  },
+  {
+      "name": "Cut the Deck",
+      "pitch": 1,
+      "image": "HVY106"
+  },
+  {
+      "name": "Cut the Deck",
+      "pitch": 2,
+      "image": "HVY107"
+  },
+  {
+      "name": "Cut the Deck",
+      "pitch": 3,
+      "image": "HVY108"
+  },
+  {
+      "name": "Fatal Engagement",
+      "pitch": 1,
+      "image": "HVY109"
+  },
+  {
+      "name": "Fatal Engagement",
+      "pitch": 2,
+      "image": "HVY110"
+  },
+  {
+      "name": "Fatal Engagement",
+      "pitch": 3,
+      "image": "HVY111"
+  },
+  {
+      "name": "Take the Upper Hand",
+      "pitch": 1,
+      "image": "HVY112"
+  },
+  {
+      "name": "Take the Upper Hand",
+      "pitch": 2,
+      "image": "HVY113"
+  },
+  {
+      "name": "Take the Upper Hand",
+      "pitch": 3,
+      "image": "HVY114"
+  },
+  {
+      "name": "Agile Engagement",
+      "pitch": 1,
+      "image": "HVY115"
+  },
+  {
+      "name": "Agile Engagement",
+      "pitch": 2,
+      "image": "HVY116"
+  },
+  {
+      "name": "Agile Engagement",
+      "pitch": 3,
+      "image": "HVY117"
+  },
+  {
+      "name": "Vigorous Engagement",
+      "pitch": 1,
+      "image": "HVY118"
+  },
+  {
+      "name": "Vigorous Engagement",
+      "pitch": 2,
+      "image": "HVY119"
+  },
+  {
+      "name": "Vigorous Engagement",
+      "pitch": 3,
+      "image": "HVY120"
+  },
+  {
+      "name": "Draw Swords",
+      "pitch": 1,
+      "image": "HVY121"
+  },
+  {
+      "name": "Draw Swords",
+      "pitch": 2,
+      "image": "HVY122"
+  },
+  {
+      "name": "Draw Swords",
+      "pitch": 3,
+      "image": "HVY123"
+  },
+  {
+      "name": "Edge Ahead",
+      "pitch": 1,
+      "image": "HVY124"
+  },
+  {
+      "name": "Edge Ahead",
+      "pitch": 2,
+      "image": "HVY125"
+  },
+  {
+      "name": "Edge Ahead",
+      "pitch": 3,
+      "image": "HVY126"
+  },
+  {
+      "name": "Engaged Swiftblade",
+      "pitch": 1,
+      "image": "HVY127"
+  },
+  {
+      "name": "Engaged Swiftblade",
+      "pitch": 2,
+      "image": "HVY128"
+  },
+  {
+      "name": "Engaged Swiftblade",
+      "pitch": 3,
+      "image": "HVY129"
+  },
+  {
+      "name": "Hold 'em",
+      "pitch": 1,
+      "image": "HVY130"
+  },
+  {
+      "name": "Hold 'em",
+      "pitch": 2,
+      "image": "HVY131"
+  },
+  {
+      "name": "Hold 'em",
+      "pitch": 3,
+      "image": "HVY132"
+  },
+  {
+      "name": "Goblet of Bloodrun Wine",
+      "pitch": 3,
+      "image": "HVY133"
+  },
+  {
+      "name": "Cintari Sellsword",
+      "pitch": null,
+      "image": "HVY134"
+  },
+  {
+      "name": "Gauntlet of Might",
+      "pitch": null,
+      "image": "HVY135"
+  },
+  {
+      "name": "Talk a Big Game",
+      "pitch": 3,
+      "image": "HVY136"
+  },
+  {
+      "name": "Clash of Might",
+      "pitch": 1,
+      "image": "HVY137"
+  },
+  {
+      "name": "Clash of Might",
+      "pitch": 2,
+      "image": "HVY138"
+  },
+  {
+      "name": "Clash of Might",
+      "pitch": 3,
+      "image": "HVY139"
+  },
+  {
+      "name": "Battered Not Broken",
+      "pitch": 1,
+      "image": "HVY140"
+  },
+  {
+      "name": "Test of Might",
+      "pitch": 1,
+      "image": "HVY141"
+  },
+  {
+      "name": "Wall of Meat and Muscle",
+      "pitch": 1,
+      "image": "HVY142"
+  },
+  {
+      "name": "Mighty Windup",
+      "pitch": 1,
+      "image": "HVY143"
+  },
+  {
+      "name": "Mighty Windup",
+      "pitch": 2,
+      "image": "HVY144"
+  },
+  {
+      "name": "Mighty Windup",
+      "pitch": 3,
+      "image": "HVY145"
+  },
+  {
+      "name": "Rising Power",
+      "pitch": 1,
+      "image": "HVY146"
+  },
+  {
+      "name": "Rising Power",
+      "pitch": 2,
+      "image": "HVY147"
+  },
+  {
+      "name": "Rising Power",
+      "pitch": 3,
+      "image": "HVY148"
+  },
+  {
+      "name": "Wage Might",
+      "pitch": 1,
+      "image": "HVY149"
+  },
+  {
+      "name": "Wage Might",
+      "pitch": 2,
+      "image": "HVY150"
+  },
+  {
+      "name": "Wage Might",
+      "pitch": 3,
+      "image": "HVY151"
+  },
+  {
+      "name": "Lead with Power",
+      "pitch": 1,
+      "image": "HVY152"
+  },
+  {
+      "name": "Lead with Power",
+      "pitch": 2,
+      "image": "HVY153"
+  },
+  {
+      "name": "Lead with Power",
+      "pitch": 3,
+      "image": "HVY154"
+  },
+  {
+      "name": "Flat Trackers",
+      "pitch": null,
+      "image": "HVY155"
+  },
+  {
+      "name": "Runner Runner",
+      "pitch": 1,
+      "image": "HVY156"
+  },
+  {
+      "name": "Clash of Agility",
+      "pitch": 1,
+      "image": "HVY157"
+  },
+  {
+      "name": "Clash of Agility",
+      "pitch": 2,
+      "image": "HVY158"
+  },
+  {
+      "name": "Clash of Agility",
+      "pitch": 3,
+      "image": "HVY159"
+  },
+  {
+      "name": "Take it on the Chin",
+      "pitch": 1,
+      "image": "HVY160"
+  },
+  {
+      "name": "Run into Trouble",
+      "pitch": 1,
+      "image": "HVY161"
+  },
+  {
+      "name": "Test of Agility",
+      "pitch": 1,
+      "image": "HVY162"
+  },
+  {
+      "name": "Agile Windup",
+      "pitch": 1,
+      "image": "HVY163"
+  },
+  {
+      "name": "Agile Windup",
+      "pitch": 2,
+      "image": "HVY164"
+  },
+  {
+      "name": "Agile Windup",
+      "pitch": 3,
+      "image": "HVY165"
+  },
+  {
+      "name": "Rising Speed",
+      "pitch": 1,
+      "image": "HVY166"
+  },
+  {
+      "name": "Rising Speed",
+      "pitch": 2,
+      "image": "HVY167"
+  },
+  {
+      "name": "Rising Speed",
+      "pitch": 3,
+      "image": "HVY168"
+  },
+  {
+      "name": "Wage Agility",
+      "pitch": 1,
+      "image": "HVY169"
+  },
+  {
+      "name": "Wage Agility",
+      "pitch": 2,
+      "image": "HVY170"
+  },
+  {
+      "name": "Wage Agility",
+      "pitch": 3,
+      "image": "HVY171"
+  },
+  {
+      "name": "Lead with Speed",
+      "pitch": 1,
+      "image": "HVY172"
+  },
+  {
+      "name": "Lead with Speed",
+      "pitch": 2,
+      "image": "HVY173"
+  },
+  {
+      "name": "Lead with Speed",
+      "pitch": 3,
+      "image": "HVY174"
+  },
+  {
+      "name": "Vigor Girth",
+      "pitch": null,
+      "image": "HVY175"
+  },
+  {
+      "name": "Double Down",
+      "pitch": 1,
+      "image": "HVY176"
+  },
+  {
+      "name": "Clash of Vigor",
+      "pitch": 1,
+      "image": "HVY177"
+  },
+  {
+      "name": "Clash of Vigor",
+      "pitch": 2,
+      "image": "HVY178"
+  },
+  {
+      "name": "Clash of Vigor",
+      "pitch": 3,
+      "image": "HVY179"
+  },
+  {
+      "name": "Slap-Happy",
+      "pitch": 1,
+      "image": "HVY180"
+  },
+  {
+      "name": "Hearty Block",
+      "pitch": 1,
+      "image": "HVY181"
+  },
+  {
+      "name": "Test of Vigor",
+      "pitch": 1,
+      "image": "HVY182"
+  },
+  {
+      "name": "Rising Energy",
+      "pitch": 1,
+      "image": "HVY183"
+  },
+  {
+      "name": "Rising Energy",
+      "pitch": 2,
+      "image": "HVY184"
+  },
+  {
+      "name": "Rising Energy",
+      "pitch": 3,
+      "image": "HVY185"
+  },
+  {
+      "name": "Vigorous Windup",
+      "pitch": 1,
+      "image": "HVY186"
+  },
+  {
+      "name": "Vigorous Windup",
+      "pitch": 2,
+      "image": "HVY187"
+  },
+  {
+      "name": "Vigorous Windup",
+      "pitch": 3,
+      "image": "HVY188"
+  },
+  {
+      "name": "Wage Vigor",
+      "pitch": 1,
+      "image": "HVY189"
+  },
+  {
+      "name": "Wage Vigor",
+      "pitch": 2,
+      "image": "HVY190"
+  },
+  {
+      "name": "Wage Vigor",
+      "pitch": 3,
+      "image": "HVY191"
+  },
+  {
+      "name": "Lead with Heart",
+      "pitch": 1,
+      "image": "HVY192"
+  },
+  {
+      "name": "Lead with Heart",
+      "pitch": 2,
+      "image": "HVY193"
+  },
+  {
+      "name": "Lead with Heart",
+      "pitch": 3,
+      "image": "HVY194"
+  },
+  {
+      "name": "Balance of Justice",
+      "pitch": null,
+      "image": "HVY195"
+  },
+  {
+      "name": "Glory Seeker",
+      "pitch": null,
+      "image": "HVY196"
+  },
+  {
+      "name": "Sheltered Cove",
+      "pitch": null,
+      "image": "HVY197"
+  },
+  {
+      "name": "Face Adversity",
+      "pitch": null,
+      "image": "HVY198"
+  },
+  {
+      "name": "Confront Adversity",
+      "pitch": null,
+      "image": "HVY199"
+  },
+  {
+      "name": "Embrace Adversity",
+      "pitch": null,
+      "image": "HVY200"
+  },
+  {
+      "name": "Overcome Adversity",
+      "pitch": null,
+      "image": "HVY201"
+  },
+  {
+      "name": "Headliner Helm",
+      "pitch": null,
+      "image": "HVY202"
+  },
+  {
+      "name": "Stadium Centerpiece",
+      "pitch": null,
+      "image": "HVY203"
+  },
+  {
+      "name": "Ticket Puncher",
+      "pitch": null,
+      "image": "HVY204"
+  },
+  {
+      "name": "Grandstand Legplates",
+      "pitch": null,
+      "image": "HVY205"
+  },
+  {
+      "name": "Bloodied Oval",
+      "pitch": null,
+      "image": "HVY206"
+  },
+  {
+      "name": "Nasty Surprise",
+      "pitch": 3,
+      "image": "HVY207"
+  },
+  {
+      "name": "Pay Up",
+      "pitch": 1,
+      "image": "HVY208"
+  },
+  {
+      "name": "Ripple Away",
+      "pitch": 3,
+      "image": "HVY209"
+  },
+  {
+      "name": "Standing Order",
+      "pitch": 1,
+      "image": "HVY210"
+  },
+  {
+      "name": "Tenacity",
+      "pitch": 2,
+      "image": "HVY211"
+  },
+  {
+      "name": "Seduce Secrets",
+      "pitch": 2,
+      "image": "HVY212"
+  },
+  {
+      "name": "Down But Not Out",
+      "pitch": 1,
+      "image": "HVY213"
+  },
+  {
+      "name": "Down But Not Out",
+      "pitch": 2,
+      "image": "HVY214"
+  },
+  {
+      "name": "Down But Not Out",
+      "pitch": 3,
+      "image": "HVY215"
+  },
+  {
+      "name": "Wage Gold",
+      "pitch": 1,
+      "image": "HVY216"
+  },
+  {
+      "name": "Wage Gold",
+      "pitch": 2,
+      "image": "HVY217"
+  },
+  {
+      "name": "Wage Gold",
+      "pitch": 3,
+      "image": "HVY218"
+  },
+  {
+      "name": "Reinforce the Line",
+      "pitch": 1,
+      "image": "HVY219"
+  },
+  {
+      "name": "Reinforce the Line",
+      "pitch": 2,
+      "image": "HVY220"
+  },
+  {
+      "name": "Reinforce the Line",
+      "pitch": 3,
+      "image": "HVY221"
+  },
+  {
+      "name": "Adrenaline Rush",
+      "pitch": 1,
+      "image": "HVY222"
+  },
+  {
+      "name": "Adrenaline Rush",
+      "pitch": 2,
+      "image": "HVY223"
+  },
+  {
+      "name": "Adrenaline Rush",
+      "pitch": 3,
+      "image": "HVY224"
+  },
+  {
+      "name": "Performance Bonus",
+      "pitch": 1,
+      "image": "HVY225"
+  },
+  {
+      "name": "Performance Bonus",
+      "pitch": 2,
+      "image": "HVY226"
+  },
+  {
+      "name": "Performance Bonus",
+      "pitch": 3,
+      "image": "HVY227"
+  },
+  {
+      "name": "Rally the Rearguard",
+      "pitch": 1,
+      "image": "HVY228"
+  },
+  {
+      "name": "Rally the Rearguard",
+      "pitch": 2,
+      "image": "HVY229"
+  },
+  {
+      "name": "Rally the Rearguard",
+      "pitch": 3,
+      "image": "HVY230"
+  },
+  {
+      "name": "Trade In",
+      "pitch": 1,
+      "image": "HVY231"
+  },
+  {
+      "name": "Trade In",
+      "pitch": 2,
+      "image": "HVY232"
+  },
+  {
+      "name": "Trade In",
+      "pitch": 3,
+      "image": "HVY233"
+  },
+  {
+      "name": "Lunging Press",
+      "pitch": 3,
+      "image": "HVY234"
+  },
+  {
+      "name": "Money Where Ya Mouth Is",
+      "pitch": 1,
+      "image": "HVY235"
+  },
+  {
+      "name": "Money Where Ya Mouth Is",
+      "pitch": 2,
+      "image": "HVY236"
+  },
+  {
+      "name": "Money Where Ya Mouth Is",
+      "pitch": 3,
+      "image": "HVY237"
+  },
+  {
+      "name": "Starting Stake",
+      "pitch": 2,
+      "image": "HVY238"
+  },
+  {
+      "name": "Test of Strength",
+      "pitch": 1,
+      "image": "HVY239"
+  },
+  {
+      "name": "Agility",
+      "pitch": null,
+      "image": "HVY240"
+  },
+  {
+      "name": "Might",
+      "pitch": null,
+      "image": "HVY241"
+  },
+  {
+      "name": "Vigor",
+      "pitch": null,
+      "image": "HVY242"
+  },
+  {
+      "name": "Gold",
+      "pitch": null,
+      "image": "HVY243"
+  },
+  {
+      "name": "Cracked Bauble",
+      "pitch": 2,
+      "image": "HVY244"
+  },
+  {
+      "name": "Graven Call",
+      "pitch": null,
+      "image": "HVY245"
+  },
+  {
+      "name": "Coercive Tendency",
+      "pitch": 3,
+      "image": "HVY246"
+  },
+  {
+      "name": "Ancestral Harmony",
+      "pitch": 3,
+      "image": "HVY247"
+  },
+  {
+      "name": "Evo Magneto",
+      "pitch": 3,
+      "image": "HVY248"
+  },
+  {
+      "name": "Judge, Jury, Executioner",
+      "pitch": 1,
+      "image": "HVY249"
+  },
+  {
+      "name": "Reel In",
+      "pitch": 3,
+      "image": "HVY250"
+  },
+  {
+      "name": "Sonata Galaxia",
+      "pitch": 1,
+      "image": "HVY251"
+  },
+  {
+      "name": "Aether Arc",
+      "pitch": 3,
+      "image": "HVY252"
+  },
+  {
+      "name": "Dissolve Reality",
+      "pitch": 2,
+      "image": "HVY253"
+  },
+  {
+      "name": "Luminaris, Angel's Glow",
+      "pitch": null,
+      "image": "HVY254"
+  }
+]

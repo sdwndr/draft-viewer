@@ -1,5 +1,12 @@
 import './App.css';
 import { useState, useMemo } from 'react';
+import cards from './cards.json'
+
+const textToPitch = {
+  '(red)': 1,
+  '(yellow)': 2,
+  '(blue)': 3
+}
 
 function App() {
   const [file, setFile] = useState();
@@ -64,21 +71,38 @@ function App() {
     }
 
     const showPacks = (pack) => {
+      const splitCardAndPitch = (line) => {
+        if (line.includes('(')) {
+          const [card, pitch] = line.split(/\s(?=\()/)
+          return [card.trim(), textToPitch[pitch]]
+        }
+
+        return [line.trim(), null]
+      }
+
+      const findCard = (cardName, pitch) => cards.find((card) => card.name === cardName && card.pitch === pitch)
       
       return <>
         {pack.map((singlePack, i) => {
             const cardList = singlePack.split('\n')
-            return cardList.map((line, i) => {  
+
+            return <div className='flex flex-wrap'>{cardList.map((line, i) => {  
               if (i === 0) {
-                return <div className="mt-4">{line}</div>
+                return <div className="mt-8 basis-full text-xl font-bold">{line}</div>
               }
               
               if (line.startsWith('-->')) {
-                return <div className="text-green-500">{line}</div>
+                const cleanLine = line.replace('--> ', '')
+                const [cardName, pitch] = splitCardAndPitch(cleanLine)
+                return <div className="text-green-500"><img className={`inline-block h-64 w-44 m-1 hover:scale-150 transition duration-200 border-green-500 border-4 rounded-lg`} src={`https://d2h5owxb2ypf43.cloudfront.net/cards/${findCard(cardName, pitch).image}.webp`}></img></div>
               }
 
-              return <div>{line}</div>
-          })
+              const [cardName, pitch] = splitCardAndPitch(line)
+              return <div>
+                <div><img className={`inline-block h-64 w-44 m-1 hover:scale-150 transition duration-200`} src={`https://d2h5owxb2ypf43.cloudfront.net/cards/${findCard(cardName, pitch).image}.webp`}></img></div>
+                {/* <div>{findCard(cardName, pitch).image}</div> */}
+                </div>
+          })}</div>
         })}
       </>
     }
@@ -90,6 +114,8 @@ function App() {
       {showPacks(pack3)}
     </>
   }, [file, fileContents])
+
+
 
   return (
     <div className="p-4 text-center text-gray-200 bg-gray-800 min-h-screen flex flex-col items-center justify-center">
